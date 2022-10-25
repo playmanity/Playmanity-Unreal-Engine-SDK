@@ -5,7 +5,7 @@
     <img src="https://avatars.githubusercontent.com/u/96354791?s=200&v=4" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Playmanity Unreal Engine SDK - 4.27.2</h3>
+  <h3 align="center">Playmanity Unreal Engine SDK - 4.27</h3>
 
   <p align="center">
     The official SDK for Playmanity, on Unreal Engine.
