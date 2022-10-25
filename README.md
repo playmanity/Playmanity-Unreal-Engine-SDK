@@ -22,7 +22,7 @@
 
 ## About PSDK
 
-PSDK is the unofficial SDK for Playmanity, on Unreal Engine. It features ads, login and sign up ready to be used. Fully documented and open source!
+PSDK is the official SDK for Playmanity, on Unreal Engine. It features ads, login and sign up ready to be used. Fully documented and open source!
 
 <!-- GETTING STARTED -->
 ## Getting Started
