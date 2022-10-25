@@ -8,15 +8,15 @@
   <h3 align="center">Playmanity Unreal Engine SDK - 4.27.2</h3>
 
   <p align="center">
-    The unofficial SDK for Playmanity, on Unreal Engine.
+    The official SDK for Playmanity, on Unreal Engine.
     <br />
     <br />
     <br />
-    <a href="https://github.com/Xp3rtA/Playmanity-Unreal-Engine-SDK/releases/latest">Download</a>
+    <a href="https://github.com/playmanity/Playmanity-Unreal-Engine-SDK/releases/latest">Download</a>
     ·
-    <a href="https://github.com/Xp3rtA/Playmanity-Unreal-Engine-SDK/issues">Report Bug</a>
+    <a href="https://github.com/playmanity/Playmanity-Unreal-Engine-SDK/issues">Report Bug</a>
     ·
-    <a href="https://github.com/Xp3rtA/Playmanity-Unreal-Engine-SDK/issues">Request Feature</a>
+    <a href="https://github.com/playmanity/Playmanity-Unreal-Engine-SDK/issues">Request Feature</a>
   </p>
 </div>
 
@@ -51,7 +51,7 @@ You will also need VaRest plugin, its free:
 
 ## Documentation
 
-See the full documentation on the wiki section: https://github.com/Xp3rtA/Playmanity-Unreal-Engine-SDK/wiki
+See the full documentation on the wiki section: https://github.com/playmanity/Playmanity-Unreal-Engine-SDK/wiki
 
 <!-- ROADMAP -->
 ## Roadmap
@@ -62,7 +62,7 @@ See the full documentation on the wiki section: https://github.com/Xp3rtA/Playma
 - [ ] Save player credentials / autologin
 - [ ] Ue 5.0 support
 
-See the [open issues](https://github.com/Xp3rtA/Playmanity-Unreal-Engine-SDK/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/playmanity/Playmanity-Unreal-Engine-SDK/issues) for a full list of proposed features (and known issues).
 
 <!-- LICENSE -->
 ## License
