@@ -58,7 +58,7 @@ See the full documentation on the wiki section: https://github.com/playmanity/Pl
 
 - [x] Sign In
 - [x] Sign Up
-- [ ] Ads
+- [x] Ads
 - [ ] Save player credentials / autologin
 - [ ] Ue 5.0 support
 
